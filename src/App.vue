@@ -18,7 +18,8 @@ import Menucord from './views/Menucord.vue';
   overflow: hidden;
 }
 body{
-  background-color: lightslategray;
+  background-image:url(./assets/otrazhenie-gor-v-lesnom-ozere.jpg);
+  background-size: cover;
 }
 
 </style>

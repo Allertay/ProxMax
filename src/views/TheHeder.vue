@@ -52,7 +52,7 @@
 .TheHeder-title {
   display: flex;
   justify-content: space-between;
-  background-color: rgb(32, 32, 32);
+  background-color: #495235;
   height: 50px;
   width: 100%;
 }

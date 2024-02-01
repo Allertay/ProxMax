@@ -39,42 +39,46 @@ margin: 5px 9px 0px 0px;
   cursor: pointer;
   padding: 5px 13px;
   border-radius: 50%;
-  background-color: lightblue;
-  border: solid 1px transparent;
-  transition: all 0.3s cubic-bezier(0, 0, 0.11, 0.93);
+  background-color: #90533b;
+  border: solid 0px transparent;
+  transition: all 0.2s cubic-bezier(0, 0, 0.11, 0.93);
+  box-shadow: 0px 2px 2px 0px rgb(0, 0, 0, 0.75);
 }
 .creat-button:hover{
   cursor: pointer;
   padding: 5px 13px;
   border-radius: 50%;
-  background-color: rgb(126, 186, 206);
-  border: solid 1px black;
-  transition: all 0.3s cubic-bezier(0, 0, 0.11, 0.93);
+  background-color: #90533b;
+  border: solid 0px transparent;
+  transition: all 0.2s cubic-bezier(0, 0, 0.11, 0.93);
+  box-shadow: 0px 2px 2px 0px rgb(0, 0, 0, 0.35);
 }
 .title-spis{
-  color: azure;
+  color: black;
   padding: 10px;
-  font-weight: 500;
+  font-weight: 600;
   font-size: x-large;
   text-decoration: underline;
 }
 .container-title {
-  background-color: black;
+  background-color: #b87b5c;
   display: flex;
   height: 50px;
   display: flex;
   justify-content: space-between;
   width: auto;
   border-radius: 6px;
+  box-shadow: 0px 4px 12px 0px rgb(0, 0, 0, 0.65);
   margin: 10px;
 }
 .content {
-  background-color: azure;
+  background-color: #f4ddb8;
   margin: 50px;
   width: auto;
   height: 100vh;
   border-radius: 10px;
   text-align: center;
+  
 }
 .promer {
   margin-top: 20px;
