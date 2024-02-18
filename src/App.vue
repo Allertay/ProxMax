@@ -2,7 +2,6 @@
 import { RouterView } from 'vue-router'
 import TheHeder from './views/TheHeder.vue';
 import Menucord from './views/Menucord.vue';
-
 </script>
 
 <template>
@@ -13,13 +12,12 @@ import Menucord from './views/Menucord.vue';
 
 <style> 
 *{
-  font-family:'Courier New', Courier, monospace ;
-  margin: 0;
-  overflow: hidden;
+   margin: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   overflow: hidden;
 }
 body{
-  background-image:url(./assets/otrazhenie-gor-v-lesnom-ozere.jpg);
-  background-size: cover;
+background-color: #FFFAFA;
 }
 
 </style>
